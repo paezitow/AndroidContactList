@@ -1,9 +1,9 @@
 package com.example.contactlist
 
 class Contact(
-    private var name: String,
-    private var phone: String,
-    private var userImage: String
+     var name: String,
+     var phone: String,
+     var userImage: String
 ){
 
 }
